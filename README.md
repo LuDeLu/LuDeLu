@@ -63,8 +63,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/LuDeLu/LuDeLu/output/snake.svg" alt="Snake animation" />
 
 ###
